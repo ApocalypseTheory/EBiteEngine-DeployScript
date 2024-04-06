@@ -62,7 +62,8 @@ This script can be modified to suit your project needs, such as adding more comp
 License
 
 This script is free to use and modify without attribution.
-Acknowledgements
 
-    Go team for the comprehensive toolchain.
-    The PowerShell community for resources and examples.
+## Acknowledgements
+
+Go team for the comprehensive toolchain.
+The PowerShell community for resources and examples.
